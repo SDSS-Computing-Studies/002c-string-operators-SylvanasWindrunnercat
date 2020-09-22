@@ -4,7 +4,7 @@
 # This little piggy went to market.
 
 subject = "This little piggy"
-verb = " went"
+verb = " went "
 preposition = "to "
 pronoun = " market."
 
